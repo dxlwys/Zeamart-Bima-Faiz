@@ -1,0 +1,11 @@
+E:\File Sekolah\repos\ZeaMart Bima Faiz\ZeaMart Bima Faiz\bin\Debug\ZeaMart Bima Faiz.exe.config
+E:\File Sekolah\repos\ZeaMart Bima Faiz\ZeaMart Bima Faiz\bin\Debug\ZeaMart Bima Faiz.exe
+E:\File Sekolah\repos\ZeaMart Bima Faiz\ZeaMart Bima Faiz\bin\Debug\ZeaMart Bima Faiz.pdb
+E:\File Sekolah\repos\ZeaMart Bima Faiz\ZeaMart Bima Faiz\obj\Debug\ZeaMart Bima Faiz.csproj.AssemblyReference.cache
+E:\File Sekolah\repos\ZeaMart Bima Faiz\ZeaMart Bima Faiz\obj\Debug\ZeaMart Bima Faiz.csproj.SuggestedBindingRedirects.cache
+E:\File Sekolah\repos\ZeaMart Bima Faiz\ZeaMart Bima Faiz\obj\Debug\ZeaMart_Bima_Faiz.Form1.resources
+E:\File Sekolah\repos\ZeaMart Bima Faiz\ZeaMart Bima Faiz\obj\Debug\ZeaMart_Bima_Faiz.Properties.Resources.resources
+E:\File Sekolah\repos\ZeaMart Bima Faiz\ZeaMart Bima Faiz\obj\Debug\ZeaMart Bima Faiz.csproj.GenerateResource.cache
+E:\File Sekolah\repos\ZeaMart Bima Faiz\ZeaMart Bima Faiz\obj\Debug\ZeaMart Bima Faiz.csproj.CoreCompileInputs.cache
+E:\File Sekolah\repos\ZeaMart Bima Faiz\ZeaMart Bima Faiz\obj\Debug\ZeaMart Bima Faiz.exe
+E:\File Sekolah\repos\ZeaMart Bima Faiz\ZeaMart Bima Faiz\obj\Debug\ZeaMart Bima Faiz.pdb
